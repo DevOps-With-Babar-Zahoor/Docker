@@ -1,9 +1,9 @@
 ---
 name: Docker Support Request Template
-about: this template is being used to apply a help in performing a task in Docker repository
-  and its related system.
+about: this template is being used to apply a help in performing a task in Docker
+  repository and its related system.
 title: ''
-labels: help requestd, Docker
+labels: Docker, help wanted
 assignees: ''
 
 ---
